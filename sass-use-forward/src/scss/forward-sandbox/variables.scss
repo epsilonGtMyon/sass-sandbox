@@ -1,0 +1,6 @@
+@forward 'base-color';
+@use 'base-color' as base;
+
+$primary: rgb(200, 255, 200);
+$info: base.$blue;
+

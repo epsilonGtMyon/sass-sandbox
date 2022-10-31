@@ -1,0 +1,10 @@
+@use 'variables';
+
+.primary {
+  background-color: variables.$primary;
+}
+
+
+.info {
+  background-color: variables.$info;
+}
